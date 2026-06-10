@@ -73,5 +73,4 @@ footer {
 @media screen and (max-width: 700px) {
   .container, .navbar {   
     flex-direction: column;
-  }
 }
