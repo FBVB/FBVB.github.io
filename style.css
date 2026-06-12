@@ -70,8 +70,7 @@ footer {
 }
 
 /* Content Uppercase */
-
-p {
+p.uppercasecontent {
   text-transform: uppercase;
 }
 
